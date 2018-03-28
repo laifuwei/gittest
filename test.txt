@@ -3,3 +3,4 @@ Git is free software.
 add new data.
 暂存区和工作区
 测试一下是否有邮箱和密码
+测试下phpstrom
